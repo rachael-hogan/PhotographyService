@@ -1,0 +1,20 @@
+{
+    "name": "rachaelhogan/photography-service",
+    "description": "Photography Service Project with endpoints",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Rachaelhogan\\PhotographyService\\Backend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rachael Hogan"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.3"
+    }
+}

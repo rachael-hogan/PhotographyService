@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "event_type": "wedding",
+    "location": "New York"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "event_type": "birthday",
+    "location": "Los Angeles"
+  },
+  {
+    "id": 3,
+    "name": "Emily Johnson",
+    "event_type": "wedding",
+    "location": "Chicago"
+  }
+]
