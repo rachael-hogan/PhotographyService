@@ -1,0 +1,1 @@
+{"version":1,"defects":{"PhotographersTest::testGetAllPhotographers":8,"PhotographersTest::testGetPhotographerById":8,"PhotographersTest::testGetPhotographersByEventType":8},"times":{"PhotographersTest::testGetAllPhotographers":0.003,"PhotographersTest::testGetPhotographerById":0,"PhotographersTest::testGetPhotographersByEventType":7.39}}

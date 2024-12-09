@@ -1,7 +1,7 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-use Rachaelhogan\PhotographyService\Photographers;
+use Rachaelhogan\PhotographyService\Backend\Photographers;
 
 class PhotographersTest extends TestCase
 {
